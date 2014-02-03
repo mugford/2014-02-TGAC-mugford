@@ -1,8 +1,8 @@
-Authors: 
-Title:
+Authors: Sam T Mugford 
+Title: Effect of electrical stimulation on mating behaviour in the grey squiril
 
 Introduction:
-Results:
+Results: Some data still to collect.
 Methods:
-Discussion:
+Discussion:Much shock, some joy.
 
