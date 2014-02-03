@@ -1,7 +1,7 @@
 Authors: Sam T Mugford 
 Title: Effect of electrical stimulation on mating behaviour in the grey squiril
 
-Introduction: Much interest in recent years has foccused on the need to improve panda reproduction in captivity (Mugford et al. 2013).
+Introduction: Much interest in recent years has foccused on the need to improve panda reproduction in captivity (Mugford et al. 2013). Mechanical stimulation has proven singularly ineffective in this regard (Smith et al. 2011).
 Results: Some data still to collect.
 Methods:
 Discussion:Much shock, some joy.
